@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Throw Garbage",
+      "day": "February 17 at 12 am",
+      "remainder": true
+    },
+    {
+      "text": "Test",
+      "day": "Today",
+      "remainder": false,
+      "id": 3
+    },
+    {
+      "text": "test",
+      "day": "test",
+      "remainder": true,
+      "id": 4
+    },
+    {
+      "text": "test",
+      "day": "test",
+      "remainder": false,
+      "id": 5
+    }
+  ]
+}
